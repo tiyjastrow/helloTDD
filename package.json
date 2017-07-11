@@ -1,0 +1,20 @@
+{
+  "name": "helloTDD",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bad.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3"
+  },
+  "devDependencies": {
+    "mocha": "^3.4.2",
+    "chai": "^4.0.2",
+    "supertest": "^3.0.0"
+  }
+}
