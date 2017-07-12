@@ -4,6 +4,7 @@
   "description": "",
   "main": "bad.js",
   "scripts": {
+    "start": "node api.js",
     "test": "mocha"
   },
   "keywords": [],
