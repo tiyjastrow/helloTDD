@@ -12,7 +12,7 @@ app.get("/api/hello", (req,res) => {
 
 //////////
 app.listen(port, function(){
-    console.log(`Started. Listening on PORT ${port} (example: http://localhost:3000/api/hello)`);
+    console.log(`Started. Listening on PORT ${port} (ie: http://localhost:${port}/api/hello)`);
 });
 
 module.exports = app;
